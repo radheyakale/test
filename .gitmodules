@@ -1,0 +1,3 @@
+[submodule "subcomp"]
+	path = subcomp
+	url = https://github.com/radheyakale/subcomp
